@@ -30,7 +30,7 @@ Python 3.x: Linguagem de programação utilizada para desenvolver o sistema.
 
 SQLite: Banco de dados relacional utilizado para armazenar as informações dos alunos.
 
-Como Rodar o Projeto
+3- Como Rodar o Projeto
 1. Clonar o Repositório
 Primeiro, clone o repositório para sua máquina local:
 
